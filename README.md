@@ -1,0 +1,1 @@
+This is a repo of all the data structures that I implement for practice. You may use my code if you cite my name in any file you use my code in. You don't need to cite where my code is exactly, just put my name at the top of the file stating something like "Part of this code was written by or abstracted from Joe Ferrucci @ http://joeferrucci.info"
