@@ -30,7 +30,7 @@ public:
 	{
 		size_t index = hash(name);
 
-		if (table[index]->name == "emptry")
+		if (table[index]->name == "empty")
 		{
 			table[index]->name = name;
 			table[index]->drink = drink;
